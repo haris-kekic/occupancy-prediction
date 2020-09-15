@@ -1,0 +1,4 @@
+Date,GapStart,GapEnd,GapStartDelta,GapEndDelta,Meter1,Meter2,Meter3,Meter4,Meter5,Meter6,Meter7,Meter8,Meter9
+2014-07-15,2014-07-15 16:02,2014-07-15 16:18,20,60,mean/20,mean/20,mean/20,mean/20,mean/30,locf,locf,locf,mean/20
+2014-09-15,2014-09-15 10:10,2014-09-15 10:38,60,60,mean/60,mean/40,locf,locf,mean/60,locf,mean/60,locf,mean/60
+2014-09-15,2014-09-15 16:24,2014-09-15 16:59,60,60,mean/60,mean/40,locf,locf,locf,locf,mean/60,locf,mean/60

@@ -1,0 +1,17 @@
+Id,Dataset,Algo,FeaturesLabels,TimeSteps,ForecastSteps,StacksAndUnits,UseRegularization,UseDropout,Splits,Epochs,Done
+3440,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,96,25,False,False,3,70,False
+3441,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,96,25,False,True,3,70,False
+3442,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,96,25,True,False,3,70,False
+3443,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,96,25,True,True,3,70,False
+3444,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,96,100,False,False,3,70,False
+3445,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,96,100,False,True,3,70,False
+3446,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,96,100,True,False,3,70,False
+3447,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,96,100,True,True,3,70,False
+3448,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,288,25,False,False,3,70,False
+3449,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,288,25,False,True,3,70,False
+3450,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,288,25,True,False,3,70,False
+3451,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,288,25,True,True,3,70,False
+3452,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,288,100,False,False,3,70,False
+3453,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,288,100,False,True,3,70,False
+3454,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,288,100,True,False,3,70,False
+3455,building0;building1;building2;building3;building4;building5,std,MinuteTimeStamp;Weekday;Season;Meter1;Meter2;Meter3;Meter4;Meter5;Meter6;Meter7;Meter8;Meter9;OCCUPIED,288,288,100,True,True,3,70,False

@@ -1,0 +1,6 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "C:\\Users\\Z003X97Y\\AppData\\Local\\Continuum\\anaconda3\\envs\\keras-cpu\\python.exe"
+}

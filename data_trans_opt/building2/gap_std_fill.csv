@@ -1,0 +1,24 @@
+Date,GapStart,GapEnd,GapStartDelta,GapEndDelta,Meter1,Meter2,Meter3,Meter4,Meter5,Meter6,Meter7,Meter8,Meter9
+2014-03-13,2014-03-13 20:36,2014-03-13 21:04,120,50,mean/40,median/40,locf,locf,locf,locf,mean/60,locf,locf
+2014-04-09,2014-04-09 23:05,2014-04-09 23:20,120,50,mean/30,mean/30,locf,locf,mean/120,locf,locf,locf,locf
+2014-04-13,2014-04-13 19:40,2014-04-13 20:02,120,50,mean/30,mean/30,locf,locf,mean/30,mean/30,locf,locf,locf
+2014-04-25,2014-04-25 22:31,2014-04-25 22:56,120,30,mean/30,mean/120,locf,locf,locf,locf,locf,locf,locf
+2014-05-11,2014-05-11 16:57,2014-05-11 18:46,120,60,mean/120,mean/120,locf,locf,mean/120,mean/120,locf,locf,locf
+2014-06-06,2014-06-06 21:35,2014-06-06 21:46,60,60,mean/20,mean/20,mean/20,locf,mean/15,locf,locf,locf,locf
+2014-06-12,2014-06-12 20:07,2014-06-12 20:18,120,60,locf,mean/20,locf,locf,locf,locf,locf,locf,locf
+2014-07-05,2014-07-05 21:13,2014-07-05 22:09,120,60,mean/120,median/120,locf,locf,locf,mean/120,locf,locf,locf
+2014-08-01,2014-08-01 21:27,2014-08-01 21:42,60,60,mean/20,mean/20,locf,locf,locf,locf,locf,locf,locf
+2014-09-04,2014-09-04 18:20,2014-09-04 18:41,60,60,mean/30,mean/30,locf,locf,locf,mean/30,locf,locf,locf
+2014-09-11,2014-09-11 19:35,2014-09-11 19:59,60,60,mean/30,mean/30,locf,locf,locf,mean/30,locf,locf,locf
+2014-10-20,2014-10-20 11:49,2014-10-20 12:01,120,60,locf,mean/20,mean/20,locf,locf,locf,locf,locf,locf
+2014-10-22,2014-10-22 19:34,2014-10-22 19:47,60,60,locf,mean/20,locf,locf,locf,mean/20,locf,locf,locf
+2014-10-30,2014-10-30 21:40,2014-10-30 22:03,60,60,median/30,mean/30,locf,locf,locf,mean/30,locf,locf,locf
+2014-11-08,2014-11-08 10:41,2014-11-08 11:25,120,60,locf,ip/slinear,locf,locf,locf,ip/slinear,locf,locf,locf
+2014-11-29,2014-11-29 19:16,2014-11-29 19:26,60,60,mean/20,mean/20,locf,locf,locf,mean/20,locf,locf,locf
+2014-12-16,2014-12-16 23:30,2014-12-16 23:48,60,20,mean/20,mean/20,locf,locf,locf,locf,locf,locf,locf
+2015-01-04,2015-01-04 19:08,2015-01-04 19:22,60,60,mean/20,mean/20,locf,locf,locf,mean/20,locf,locf,locf
+2015-03-10,2015-03-10 22:58,2015-03-10 23:11,60,30,mean/20,mean/20,locf,locf,locf,locf,locf,locf,locf
+2015-03-28,2015-03-28 08:13,2015-03-28 08:25,120,60,locf,mean/20,mean/20,locf,locf,locf,locf,mean/20,locf
+2015-05-15,2015-05-15 11:35,2015-05-15 11:47,60,60,locf,mean/20,locf,locf,locf,locf,mean/20,locf,locf
+2015-05-22,2015-05-22 06:09,2015-05-22 06:21,60,60,locf,mean/20,locf,locf,locf,locf,locf,locf,locf
+2015-06-09,2015-06-09 22:39,2015-06-09 22:51,60,60,mean/20,mean/20,locf,locf,mean/20,locf,locf,locf,locf
